@@ -1,0 +1,33 @@
+.talk{
+	background-color : cyan;
+	color : red;
+	width : 200;
+	height : 100;
+	font-family: 'Big Shoulders Stencil Text', cursive;
+	font-size: 32px;
+}
+
+.content{
+    color: cyan;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+	color: rgba(255, 255, 255, 0.622);
+	font-family: Jokerman;
+	text-align: center;
+}
+
+marquee{
+font-family:  'Hanalei Fill', cursive;
+color: rgba(255, 255, 255, 0.622);
+}
+
+.talker{
+	text-align: center;
+}
